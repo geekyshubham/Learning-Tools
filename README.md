@@ -3,4 +3,4 @@ This repository include links to various educational resources and also mentions
 
 ##WEB DEVELOPMENT 
 
-![Image of WEB_DEV](https://ibb.co/RcY7cV9)
+![Image of WEB_DEV](https://i.ibb.co/vkVDkKH/1570190917i-NNN14vu-PI.png)
