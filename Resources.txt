@@ -3,13 +3,43 @@ https://devdocs.io/
 https://developer.mozilla.org/en-US/
 https://web.dev/
 
+Course Challenges 
+freecodecamp.org
+
+HTML CSS crashcourse
+https://scrimba.com/course/ghtmlcss
+
+CSS Grid
+cssgrid.io
+flexbox.io
+laracasts.com/series/modern-css-workdlow/
+
+Templates
+boot
+
+UI
+tailwindui.com
+collectui.com
+pinterest
+
+Mockups
+smartmockups.com
+mockuphone.com
+screenly.com
 
 Colors
 https://colorhunt.co/
+adobergb :V
 
 
 FRONT END ANIMATION:
 https://animista.net/
 http://paperjs.org/
+
+UI & Mock Ups
+dribble
+sneakpeekit
+balsamiq
+adobe xd
 
 I'll make a mdx as i am done 
